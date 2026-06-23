@@ -1,64 +1,24 @@
-<div align="center">
-  <h1>Hi there, I'm Thanniru Karunya 👋</h1>
-  <h3>B.Tech CSE (IoT & CSBT) Student | Full-Stack Developer</h3>
-  
-  <p>Enthusiastic and detail-oriented engineering student with a strong foundation in problem-solving and analytical thinking. I'm eager to apply academic knowledge to real-world projects and grow within a dynamic tech organization.</p>
+# Hi there, I'm Thanniru Karunya 👋
 
-  <!-- Dynamic Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Turning+coffee+into+code;Exploring+Cloud+Architecture" alt="Typing SVG" />
-</div>
+I am an enthusiastic Frontend Developer and B.Tech graduate based in Andhra Pradesh[cite: 1]. I specialize in building responsive web applications and have hands-on experience integrating hardware with software[cite: 1].
 
----
+## 🛠️ Tech Stack & Skills
+* **Frontend:** HTML, CSS, JavaScript, Angular, React[cite: 1]
+* **Programming Languages:** Python, Embedded C[cite: 1]
+* **Hardware & Electronics:** PCB Designation, Machine Maintenance, Chip Mounting[cite: 1]
 
-## 🚀 About Me
+## 💼 Experience
+* **1st Line Support Intern** | Resolute Skyquad Electronics and Appliances Pvt Ltd (May 2024 - Nov 2024)[cite: 1]
+  * Gained hands-on experience in machine learning, PCB designation, and communicating with support teams and HR[cite: 1].
 
-- 🔭 I’m currently pursuing my **B.Tech (3rd Year) in CSE with a specialization in IoT & CSBT**
-- 🌱 I’m currently learning **Next.js, Python (Django / FastAPI), Azure, and Google Cloud (GCP)**
-- 💬 Ask me about **Python, JavaScript, React, Node.js, and MongoDB**
-- 📫 How to reach me: **thannirukarunya357@gmail.com**
-- ⚡ Fun fact: **[Insert a brief hobby or fun trait here, e.g., I love debugging code while listening to lo-fi music!]**
+## 🎓 Education
+* **B.Tech:** Pace Institute of Technology and Sciences, Ongole (Result: 80%)[cite: 1]
+* **Diploma:** SBTET Guntur (Result: 78.12%)[cite: 1]
 
----
+## 📂 Featured Project
+**Fingerprint Sensor Vehicle Starter**[cite: 1]
+Developed a dual-authentication vehicle ignition security system utilizing a biometric fingerprint module and a matrix keypad[cite: 1]. Programmed in Embedded C to authenticate users and control engine ignition via relay circuits[cite: 1].
 
-## 💻 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <br/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<!-- 🚨 IMPORTANT: Replace "Thannirukarunya04" below with your actual GitHub username to make these widgets work! -->
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🔥 Featured Repositories
-
-<!-- Replace these links and descriptions with your actual 3rd-year or internship projects -->
-* **[🔗 Project One Name](https://github.com/YOUR_USERNAME/repo1):** A brief, 1-2 sentence description of what this does and the core tech used.
-* **[🔗 Project Two Name](https://github.com/YOUR_USERNAME/repo2):** A brief, 1-2 sentence description of what this does and the core tech used.
-* **[🔗 Project Three Name](https://github.com/YOUR_USERNAME/repo3):** A brief, 1-2 sentence description of what this does and the core tech used.
-
----
-
-## 🤝 Let's Connect
-
-<!-- Replace YOUR_LINKEDIN and YOUR_TWITTER with your actual profile usernames -->
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</div>
+## 📫 Let's Connect
+* **Email:** thannirukarunya357@gmail.com[cite: 1]
+* **LinkedIn:** linkedin.com/in/thannirukarunya

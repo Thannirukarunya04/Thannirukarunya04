@@ -1,6 +1,6 @@
 # Hi there, I'm Thanniru Karunya 👋
 
-I am an enthusiastic Frontend Developer and B.Tech graduate based in Andhra Pradesh[cite: 1]. I specialize in building responsive web applications and have hands-on experience integrating hardware with software.
+I am an enthusiastic Frontend Developer and B.Tech graduate based in Andhra Pradesh. I specialize in building responsive web applications and have hands-on experience integrating hardware with software.
 
 ## 🛠️ Tech Stack & Skills
 * **Frontend:** HTML, CSS, JavaScript, Angular, React
@@ -14,6 +14,7 @@ I am an enthusiastic Frontend Developer and B.Tech graduate based in Andhra Prad
 ## 🎓 Education
 * **B.Tech:** Pace Institute of Technology and Sciences, Ongole (Result: 80%)
 * **Diploma:** SBTET Guntur (Result: 78.12%)
+* **Tenth:** SSC (Result: 439)
 
 ## 📂 Featured Project
 **Fingerprint Sensor Vehicle Starter**
